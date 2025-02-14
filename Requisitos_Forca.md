@@ -27,9 +27,8 @@
         - Se houver autenticação, o usuário deve poder recuperar senha por meio de e-mail ou outro método definido.
  
     - Gerenciamento de Palavras
-        - O sistema deve contar com um banco de palavras, categorizadas por tema (ex.: animais, frutas, países, etc.) ou de forma simples (lista geral).
+        - O sistema deve contar com um banco de palavras, categorizadas por tema ou de forma simples.
         - O sistema deve permitir que um administrador inclua, edite ou remova palavras do banco.
-
 
     - Seleção e Exibição da Palavra
         - O sistema deve sortear uma palavra a cada partida de forma aleatória (levando em conta nível de dificuldade ou categorias, se houver).
@@ -40,7 +39,6 @@
         - O sistema deve verificar se a letra existe na palavra:
         - Se existir, deve revelar todas as ocorrências dessa letra.
         - Se não existir, deve registrar uma tentativa incorreta e atualizar o “boneco” da forca.
-
 
     - Controle de Tentativas
         - O sistema deve permitir um número limitado de tentativas (por exemplo, 6 ou 7) antes que o jogador perca a partida.
@@ -53,8 +51,8 @@
 - Requisitos não-funcionais
 
     - Desempenho
-        - O sistema deve carregar a página inicial em até **2 segundos** em condições de rede banda larga.
-        - O sistema deve processar a entrada de letras em tempo praticamente **instantâneo** (latência < 0,5 segundo), para manter a fluidez do jogo.
+        - O sistema deve carregar a página inicial em até **2 segundos** em condições de conexão com Wi-Fi.
+        - O sistema deve processar a entrada de letras em tempo praticamente **instantâneo** para manter a fluidez do jogo.
 
     - Usabilidade
         - A interface deve ser intuitiva, com botões ou campo de entrada para letras bem destacados.
@@ -64,7 +62,6 @@
     - Compatibilidade
         - O sistema deve ser compatível com os principais navegadores (Chrome, Firefox, Safari, Edge).
         - O design deve ser responsivo, ajustando-se a diferentes resoluções de tela (desktop, tablet e smartphone).
-
 
     - Segurança
         - Se houver cadastro de usuários, os dados de login e senha devem ser armazenados de forma segura (criptografia, HTTPS).
