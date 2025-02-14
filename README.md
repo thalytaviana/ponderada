@@ -1,11 +1,12 @@
 # Jogo de Forca Online
 
+## Propósito
 &nbsp;&nbsp;&nbsp;&nbsp;Esse é o repositório de requisitos de um Jogo de Forca Online  
 &nbsp;&nbsp;&nbsp;&nbsp;Esta ponderada tem como objetivo documentar e demonstrar o levantamento de requisitos de um jogo de forca na web.
 
 ## Como Acessar o Documento de Requisitos
 
-&nbsp;&nbsp;&nbsp;&nbsp; Clique no link abaixo para acessar o repositório do jogo.
+&nbsp;&nbsp;&nbsp;&nbsp; Clique no link abaixo para acessar o documento de requisitos.
 
 - [Requisitos_Forca.md](./Requisitos_Forca.md)
 
@@ -14,4 +15,5 @@
 - **README.md**: este arquivo, contem a descrição geral do projeto.
 
 ## Link do Projeto no GitHub
-[Repositório Público](https://github.com/thalytaviana/ponderada)
+&nbsp;&nbsp;&nbsp;&nbsp; Clique no link abaixo para acessar o repositório do jogo no GitHub.
+[Repositório ](https://github.com/thalytaviana/ponderada)
